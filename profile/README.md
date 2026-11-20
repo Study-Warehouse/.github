@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Native High-Performance Self-Hosted SVG Header Banner -->
-<img src="https://raw.githubusercontent.com/Study-Warehouse/.github/main/profile/header.svg" width="100%" alt="StudyWarehouse.com Header" />
+<img src="https://raw.githubusercontent.com/Study-Warehouse/.github/main/profile/header.png" width="100%" alt="StudyWarehouse.com Header" />
 
 <!-- Live Dynamic Metrics & Badges -->
 <p align="center">
