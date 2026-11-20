@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Native High-Performance Self-Hosted SVG Header Banner -->
-<img src="https://raw.githubusercontent.com/Study-Warehouse/.github/main/profile/header.png" width="100%" alt="StudyWarehouse.com Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,12,19&height=220&section=header&text=StudyWarehouse.com&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Open%20Educational%20Archives%20%E2%80%A2%20CS%20Notes%20%E2%80%A2%20Developer%20Cheatsheets&descFontSize=19&descAlignY=62" width="100%" alt="StudyWarehouse.com Header" />
 
 <!-- Live Dynamic Metrics & Badges -->
 <p align="center">
